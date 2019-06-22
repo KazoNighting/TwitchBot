@@ -1,0 +1,30 @@
+[06-06-2019 @ 15:41:15.223 GMT] kazonighting: !main
+[06-06-2019 @ 15:54:31.921 GMT] twitchnighting: @KazoNighting, stream chat is on Twitter @null [twitter.com/null] (!twitter usage for usage)
+[06-06-2019 @ 15:54:31.923 GMT] kazonighting: !twitter
+[06-06-2019 @ 15:54:47.285 GMT] twitchnighting: @KazoNighting, you currently have spent  16 minutes in the chat.
+[06-06-2019 @ 15:54:47.286 GMT] kazonighting: !time
+[06-06-2019 @ 15:56:58.611 GMT] twitchnighting: @KazoNighting,  kazonighting has been on Twitch since Mai 16, 2016. (Joined 1116 days ago)
+[06-06-2019 @ 15:56:58.612 GMT] kazonighting: !age
+[06-06-2019 @ 15:57:19.948 GMT] twitchnighting: @KazoNighting,  kazonighting is not following channel kazonighting
+[06-06-2019 @ 15:57:19.949 GMT] kazonighting: !followage
+[06-06-2019 @ 15:57:27.342 GMT] twitchnighting: @KazoNighting,  Current Game: Sea of Thieves
+[06-06-2019 @ 15:57:27.343 GMT] kazonighting: !game
+[06-06-2019 @ 16:22:36.308 GMT] twitchnighting: @KazoNighting, stream chat is on Twitter @KazoNighting [twitter.com/KazoNighting] (!twitter usage for usage)
+[06-06-2019 @ 16:22:36.310 GMT] kazonighting: !twitter
+[06-06-2019 @ 16:23:15.805 GMT] twitchnighting: @KazoNighting, stream chat is on Twitter @KazoNighting [twitter.com/KazoNighting]
+[06-06-2019 @ 16:23:15.806 GMT] kazonighting: !twitter id
+[06-06-2019 @ 16:23:21.113 GMT] kazonighting: !twitterid
+[06-06-2019 @ 16:23:36.279 GMT] kazonighting: !twitter_id
+[06-06-2019 @ 16:23:45.295 GMT] twitchnighting: @KazoNighting, stream chat is on Twitter @KazoNighting [twitter.com/KazoNighting]
+[06-06-2019 @ 16:23:45.295 GMT] kazonighting: !twitter id
+[06-06-2019 @ 16:23:59.663 GMT] twitchnighting: @KazoNighting, Not polling Tweets from home or user timeline.
+[06-06-2019 @ 16:23:59.664 GMT] kazonighting: !twitter lasttweet
+[06-06-2019 @ 16:24:16.852 GMT] kazonighting: !twitter lastpost
+[06-06-2019 @ 16:24:29.314 GMT] kazonighting: !twitter post
+[06-06-2019 @ 16:24:47.361 GMT] twitchnighting: @KazoNighting, usage: !twitter register [twitter_id]. Currently no ID is registered. Register/change your Twitter ID.
+[06-06-2019 @ 16:24:47.363 GMT] kazonighting: !twitter register
+[06-06-2019 @ 16:26:12.841 GMT] kazonighting: !twitter post Hey das ist ein test
+[06-06-2019 @ 16:26:52.476 GMT] kazonighting: !twitter Dies ist ein Test
+[06-06-2019 @ 16:30:45.968 GMT] kazonighting: !twitchnighting moderate
+[06-06-2019 @ 16:31:03.878 GMT] kazonighting: !twitchnighting moderate
+[06-06-2019 @ 16:31:15.624 GMT] kazonighting: !twitchnighting_moderate

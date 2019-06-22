@@ -1,0 +1,845 @@
+[06-16-2019 @ 13:28:38.106 GMT] [checkYouTubeKey()@YTWebSocketServer.java:448] A YouTube API key has not been configured. Please review the instructions on the PhantomBot Community Forum at: https://community.phantombot.tv/t/acquire-youtube-api-key/222
+
+[06-16-2019 @ 13:31:20.121 GMT] [checkYouTubeKey()@YTWebSocketServer.java:448] A YouTube API key has not been configured. Please review the instructions on the PhantomBot Community Forum at: https://community.phantombot.tv/t/acquire-youtube-api-key/222
+
+[06-16-2019 @ 13:34:33.433 GMT] [updateCache()@TwitchCache.java:296] TwitchCache::updateCache: 
+
+[06-16-2019 @ 13:43:30.103 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:30.144 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:30.187 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:30.231 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:30.273 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:30.397 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:30.438 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:30.477 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:30.518 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:30.561 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:30.618 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:30.657 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:30.685 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:30.700 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:30.728 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:30.741 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:30.770 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:30.783 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:30.784 GMT] [onEvent()@ScriptEventManager.java:79] Failed to dispatch event tv.phantombot.event.ytplayer.YTPlayerStateEvent
+
+[06-16-2019 @ 13:43:30.789 GMT] org.mozilla.javascript.EcmaError: TypeError: Cannot call method "trim" of undefined (init.js#325)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3951)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3929)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3962)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3981)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3998)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2414)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2407)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.mozilla.javascript.gen.init_js_1._c_callHook_22(init.js:325)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.mozilla.javascript.gen.init_js_1._c_anonymous_55(init.js:748)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3282)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.InterfaceAdapter.invokeImpl(InterfaceAdapter.java:137)
+	at org.mozilla.javascript.InterfaceAdapter$1.run(InterfaceAdapter.java:83)
+	at org.mozilla.javascript.Context.call(Context.java:501)
+	at org.mozilla.javascript.ContextFactory.call(ContextFactory.java:503)
+	at org.mozilla.javascript.InterfaceAdapter.invoke(InterfaceAdapter.java:86)
+	at org.mozilla.javascript.jdk13.VMBridge_jdk13$1.invoke(VMBridge_jdk13.java:132)
+	at com.sun.proxy.$Proxy7.handle(Unknown Source)
+	at tv.phantombot.script.ScriptEventManager.onEvent(ScriptEventManager.java:75)
+	at sun.reflect.GeneratedMethodAccessor27.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.engio.mbassy.dispatch.ReflectiveHandlerInvocation.invoke(ReflectiveHandlerInvocation.java:29)
+	at net.engio.mbassy.dispatch.MessageDispatcher.dispatch(MessageDispatcher.java:30)
+	at net.engio.mbassy.dispatch.FilteredMessageDispatcher.dispatch(FilteredMessageDispatcher.java:42)
+	at net.engio.mbassy.subscription.Subscription.publish(Subscription.java:72)
+	at net.engio.mbassy.bus.MessagePublication.execute(MessagePublication.java:49)
+	at net.engio.mbassy.bus.AbstractSyncAsyncMessageBus$1.run(AbstractSyncAsyncMessageBus.java:67)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-16-2019 @ 13:43:30.813 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:30.854 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:30.966 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:31.004 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:31.044 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:31.089 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:31.132 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:41.238 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:41.239 GMT] [onEvent()@ScriptEventManager.java:79] Failed to dispatch event tv.phantombot.event.ytplayer.YTPlayerStateEvent
+
+[06-16-2019 @ 13:43:41.240 GMT] org.mozilla.javascript.EcmaError: TypeError: Cannot call method "trim" of undefined (init.js#325)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3951)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3929)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3962)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3981)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3998)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2414)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2407)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.mozilla.javascript.gen.init_js_1._c_callHook_22(init.js:325)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.mozilla.javascript.gen.init_js_1._c_anonymous_55(init.js:748)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3282)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.InterfaceAdapter.invokeImpl(InterfaceAdapter.java:137)
+	at org.mozilla.javascript.InterfaceAdapter$1.run(InterfaceAdapter.java:83)
+	at org.mozilla.javascript.Context.call(Context.java:501)
+	at org.mozilla.javascript.ContextFactory.call(ContextFactory.java:503)
+	at org.mozilla.javascript.InterfaceAdapter.invoke(InterfaceAdapter.java:86)
+	at org.mozilla.javascript.jdk13.VMBridge_jdk13$1.invoke(VMBridge_jdk13.java:132)
+	at com.sun.proxy.$Proxy7.handle(Unknown Source)
+	at tv.phantombot.script.ScriptEventManager.onEvent(ScriptEventManager.java:75)
+	at sun.reflect.GeneratedMethodAccessor27.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.engio.mbassy.dispatch.ReflectiveHandlerInvocation.invoke(ReflectiveHandlerInvocation.java:29)
+	at net.engio.mbassy.dispatch.MessageDispatcher.dispatch(MessageDispatcher.java:30)
+	at net.engio.mbassy.dispatch.FilteredMessageDispatcher.dispatch(FilteredMessageDispatcher.java:42)
+	at net.engio.mbassy.subscription.Subscription.publish(Subscription.java:72)
+	at net.engio.mbassy.bus.MessagePublication.execute(MessagePublication.java:49)
+	at net.engio.mbassy.bus.AbstractSyncAsyncMessageBus$1.run(AbstractSyncAsyncMessageBus.java:67)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-16-2019 @ 13:43:54.449 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:54.562 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:54.668 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:54.669 GMT] [onEvent()@ScriptEventManager.java:79] Failed to dispatch event tv.phantombot.event.ytplayer.YTPlayerStealSongEvent
+
+[06-16-2019 @ 13:43:54.670 GMT] org.mozilla.javascript.EcmaError: TypeError: Cannot call method "trim" of undefined (init.js#325)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3951)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3929)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3962)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3981)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3998)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2414)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2407)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.mozilla.javascript.gen.init_js_1._c_callHook_22(init.js:325)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.mozilla.javascript.gen.init_js_1._c_anonymous_62(init.js:797)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3282)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.InterfaceAdapter.invokeImpl(InterfaceAdapter.java:137)
+	at org.mozilla.javascript.InterfaceAdapter$1.run(InterfaceAdapter.java:83)
+	at org.mozilla.javascript.Context.call(Context.java:501)
+	at org.mozilla.javascript.ContextFactory.call(ContextFactory.java:503)
+	at org.mozilla.javascript.InterfaceAdapter.invoke(InterfaceAdapter.java:86)
+	at org.mozilla.javascript.jdk13.VMBridge_jdk13$1.invoke(VMBridge_jdk13.java:132)
+	at com.sun.proxy.$Proxy7.handle(Unknown Source)
+	at tv.phantombot.script.ScriptEventManager.onEvent(ScriptEventManager.java:75)
+	at sun.reflect.GeneratedMethodAccessor27.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.engio.mbassy.dispatch.ReflectiveHandlerInvocation.invoke(ReflectiveHandlerInvocation.java:29)
+	at net.engio.mbassy.dispatch.MessageDispatcher.dispatch(MessageDispatcher.java:30)
+	at net.engio.mbassy.dispatch.FilteredMessageDispatcher.dispatch(FilteredMessageDispatcher.java:42)
+	at net.engio.mbassy.subscription.Subscription.publish(Subscription.java:72)
+	at net.engio.mbassy.bus.MessagePublication.execute(MessagePublication.java:49)
+	at net.engio.mbassy.bus.AbstractSyncAsyncMessageBus$1.run(AbstractSyncAsyncMessageBus.java:67)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-16-2019 @ 13:43:58.475 GMT] [onMessage()@YTWebSocketServer.java:250] Skipping song, YouTube has thrown an error: 2
+
+[06-16-2019 @ 13:43:58.479 GMT] [onMessage()@YTWebSocketServer.java:250] Skipping song, YouTube has thrown an error: 2
+
+[06-16-2019 @ 13:43:58.519 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:58.520 GMT] [onEvent()@ScriptEventManager.java:79] Failed to dispatch event tv.phantombot.event.ytplayer.YTPlayerSkipSongEvent
+
+[06-16-2019 @ 13:43:58.521 GMT] org.mozilla.javascript.EcmaError: TypeError: Cannot call method "trim" of undefined (init.js#325)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3951)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3929)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3962)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3981)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3998)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2414)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2407)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.mozilla.javascript.gen.init_js_1._c_callHook_22(init.js:325)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.mozilla.javascript.gen.init_js_1._c_anonymous_61(init.js:790)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3282)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.InterfaceAdapter.invokeImpl(InterfaceAdapter.java:137)
+	at org.mozilla.javascript.InterfaceAdapter$1.run(InterfaceAdapter.java:83)
+	at org.mozilla.javascript.Context.call(Context.java:501)
+	at org.mozilla.javascript.ContextFactory.call(ContextFactory.java:503)
+	at org.mozilla.javascript.InterfaceAdapter.invoke(InterfaceAdapter.java:86)
+	at org.mozilla.javascript.jdk13.VMBridge_jdk13$1.invoke(VMBridge_jdk13.java:132)
+	at com.sun.proxy.$Proxy7.handle(Unknown Source)
+	at tv.phantombot.script.ScriptEventManager.onEvent(ScriptEventManager.java:75)
+	at sun.reflect.GeneratedMethodAccessor27.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.engio.mbassy.dispatch.ReflectiveHandlerInvocation.invoke(ReflectiveHandlerInvocation.java:29)
+	at net.engio.mbassy.dispatch.MessageDispatcher.dispatch(MessageDispatcher.java:30)
+	at net.engio.mbassy.dispatch.FilteredMessageDispatcher.dispatch(FilteredMessageDispatcher.java:42)
+	at net.engio.mbassy.subscription.Subscription.publish(Subscription.java:72)
+	at net.engio.mbassy.bus.MessagePublication.execute(MessagePublication.java:49)
+	at net.engio.mbassy.bus.AbstractSyncAsyncMessageBus$1.run(AbstractSyncAsyncMessageBus.java:67)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-16-2019 @ 13:43:58.579 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:43:58.580 GMT] [onEvent()@ScriptEventManager.java:79] Failed to dispatch event tv.phantombot.event.ytplayer.YTPlayerSkipSongEvent
+
+[06-16-2019 @ 13:43:58.581 GMT] org.mozilla.javascript.EcmaError: TypeError: Cannot call method "trim" of undefined (init.js#325)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3951)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3929)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3962)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3981)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3998)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2414)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2407)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.mozilla.javascript.gen.init_js_1._c_callHook_22(init.js:325)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.mozilla.javascript.gen.init_js_1._c_anonymous_61(init.js:790)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3282)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.InterfaceAdapter.invokeImpl(InterfaceAdapter.java:137)
+	at org.mozilla.javascript.InterfaceAdapter$1.run(InterfaceAdapter.java:83)
+	at org.mozilla.javascript.Context.call(Context.java:501)
+	at org.mozilla.javascript.ContextFactory.call(ContextFactory.java:503)
+	at org.mozilla.javascript.InterfaceAdapter.invoke(InterfaceAdapter.java:86)
+	at org.mozilla.javascript.jdk13.VMBridge_jdk13$1.invoke(VMBridge_jdk13.java:132)
+	at com.sun.proxy.$Proxy7.handle(Unknown Source)
+	at tv.phantombot.script.ScriptEventManager.onEvent(ScriptEventManager.java:75)
+	at sun.reflect.GeneratedMethodAccessor27.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.engio.mbassy.dispatch.ReflectiveHandlerInvocation.invoke(ReflectiveHandlerInvocation.java:29)
+	at net.engio.mbassy.dispatch.MessageDispatcher.dispatch(MessageDispatcher.java:30)
+	at net.engio.mbassy.dispatch.FilteredMessageDispatcher.dispatch(FilteredMessageDispatcher.java:42)
+	at net.engio.mbassy.subscription.Subscription.publish(Subscription.java:72)
+	at net.engio.mbassy.bus.MessagePublication.execute(MessagePublication.java:49)
+	at net.engio.mbassy.bus.AbstractSyncAsyncMessageBus$1.run(AbstractSyncAsyncMessageBus.java:67)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-16-2019 @ 13:44:05.122 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:44:05.233 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:44:05.349 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:44:05.350 GMT] [onEvent()@ScriptEventManager.java:79] Failed to dispatch event tv.phantombot.event.ytplayer.YTPlayerStealSongEvent
+
+[06-16-2019 @ 13:44:05.351 GMT] org.mozilla.javascript.EcmaError: TypeError: Cannot call method "trim" of undefined (init.js#325)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3951)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3929)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3962)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3981)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3998)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2414)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2407)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.mozilla.javascript.gen.init_js_1._c_callHook_22(init.js:325)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.mozilla.javascript.gen.init_js_1._c_anonymous_62(init.js:797)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3282)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.InterfaceAdapter.invokeImpl(InterfaceAdapter.java:137)
+	at org.mozilla.javascript.InterfaceAdapter$1.run(InterfaceAdapter.java:83)
+	at org.mozilla.javascript.Context.call(Context.java:501)
+	at org.mozilla.javascript.ContextFactory.call(ContextFactory.java:503)
+	at org.mozilla.javascript.InterfaceAdapter.invoke(InterfaceAdapter.java:86)
+	at org.mozilla.javascript.jdk13.VMBridge_jdk13$1.invoke(VMBridge_jdk13.java:132)
+	at com.sun.proxy.$Proxy7.handle(Unknown Source)
+	at tv.phantombot.script.ScriptEventManager.onEvent(ScriptEventManager.java:75)
+	at sun.reflect.GeneratedMethodAccessor27.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.engio.mbassy.dispatch.ReflectiveHandlerInvocation.invoke(ReflectiveHandlerInvocation.java:29)
+	at net.engio.mbassy.dispatch.MessageDispatcher.dispatch(MessageDispatcher.java:30)
+	at net.engio.mbassy.dispatch.FilteredMessageDispatcher.dispatch(FilteredMessageDispatcher.java:42)
+	at net.engio.mbassy.subscription.Subscription.publish(Subscription.java:72)
+	at net.engio.mbassy.bus.MessagePublication.execute(MessagePublication.java:49)
+	at net.engio.mbassy.bus.AbstractSyncAsyncMessageBus$1.run(AbstractSyncAsyncMessageBus.java:67)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-16-2019 @ 13:45:06.859 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:45:06.971 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:45:07.103 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:47:33.497 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:47:33.610 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:47:33.718 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:47:33.719 GMT] [onEvent()@ScriptEventManager.java:79] Failed to dispatch event tv.phantombot.event.ytplayer.YTPlayerStealSongEvent
+
+[06-16-2019 @ 13:47:33.720 GMT] org.mozilla.javascript.EcmaError: TypeError: Cannot call method "trim" of undefined (init.js#325)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3951)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3929)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3962)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3981)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3998)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2414)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2407)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.mozilla.javascript.gen.init_js_1._c_callHook_22(init.js:325)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.mozilla.javascript.gen.init_js_1._c_anonymous_62(init.js:797)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3282)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.InterfaceAdapter.invokeImpl(InterfaceAdapter.java:137)
+	at org.mozilla.javascript.InterfaceAdapter$1.run(InterfaceAdapter.java:83)
+	at org.mozilla.javascript.Context.call(Context.java:501)
+	at org.mozilla.javascript.ContextFactory.call(ContextFactory.java:503)
+	at org.mozilla.javascript.InterfaceAdapter.invoke(InterfaceAdapter.java:86)
+	at org.mozilla.javascript.jdk13.VMBridge_jdk13$1.invoke(VMBridge_jdk13.java:132)
+	at com.sun.proxy.$Proxy7.handle(Unknown Source)
+	at tv.phantombot.script.ScriptEventManager.onEvent(ScriptEventManager.java:75)
+	at sun.reflect.GeneratedMethodAccessor27.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.engio.mbassy.dispatch.ReflectiveHandlerInvocation.invoke(ReflectiveHandlerInvocation.java:29)
+	at net.engio.mbassy.dispatch.MessageDispatcher.dispatch(MessageDispatcher.java:30)
+	at net.engio.mbassy.dispatch.FilteredMessageDispatcher.dispatch(FilteredMessageDispatcher.java:42)
+	at net.engio.mbassy.subscription.Subscription.publish(Subscription.java:72)
+	at net.engio.mbassy.bus.MessagePublication.execute(MessagePublication.java:49)
+	at net.engio.mbassy.bus.AbstractSyncAsyncMessageBus$1.run(AbstractSyncAsyncMessageBus.java:67)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-16-2019 @ 13:47:52.245 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:47:52.286 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:47:52.338 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:47:52.380 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:47:52.423 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:47:52.424 GMT] [onEvent()@ScriptEventManager.java:79] Failed to dispatch event tv.phantombot.event.ytplayer.YTPlayerStealSongEvent
+
+[06-16-2019 @ 13:47:52.424 GMT] org.mozilla.javascript.EcmaError: TypeError: Cannot call method "trim" of undefined (init.js#325)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3951)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3929)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3962)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3981)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3998)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2414)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2407)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.mozilla.javascript.gen.init_js_1._c_callHook_22(init.js:325)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.mozilla.javascript.gen.init_js_1._c_anonymous_62(init.js:797)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3282)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.InterfaceAdapter.invokeImpl(InterfaceAdapter.java:137)
+	at org.mozilla.javascript.InterfaceAdapter$1.run(InterfaceAdapter.java:83)
+	at org.mozilla.javascript.Context.call(Context.java:501)
+	at org.mozilla.javascript.ContextFactory.call(ContextFactory.java:503)
+	at org.mozilla.javascript.InterfaceAdapter.invoke(InterfaceAdapter.java:86)
+	at org.mozilla.javascript.jdk13.VMBridge_jdk13$1.invoke(VMBridge_jdk13.java:132)
+	at com.sun.proxy.$Proxy7.handle(Unknown Source)
+	at tv.phantombot.script.ScriptEventManager.onEvent(ScriptEventManager.java:75)
+	at sun.reflect.GeneratedMethodAccessor27.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.engio.mbassy.dispatch.ReflectiveHandlerInvocation.invoke(ReflectiveHandlerInvocation.java:29)
+	at net.engio.mbassy.dispatch.MessageDispatcher.dispatch(MessageDispatcher.java:30)
+	at net.engio.mbassy.dispatch.FilteredMessageDispatcher.dispatch(FilteredMessageDispatcher.java:42)
+	at net.engio.mbassy.subscription.Subscription.publish(Subscription.java:72)
+	at net.engio.mbassy.bus.MessagePublication.execute(MessagePublication.java:49)
+	at net.engio.mbassy.bus.AbstractSyncAsyncMessageBus$1.run(AbstractSyncAsyncMessageBus.java:67)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-16-2019 @ 13:47:55.760 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:48:22.729 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:48:43.441 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:48:43.504 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:48:43.549 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:48:43.592 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:48:43.676 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:48:43.683 GMT] [onEvent()@ScriptEventManager.java:79] Failed to dispatch event tv.phantombot.event.ytplayer.YTPlayerStateEvent
+
+[06-16-2019 @ 13:48:43.690 GMT] org.mozilla.javascript.EcmaError: TypeError: Cannot call method "trim" of undefined (init.js#325)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3951)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3929)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3962)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3981)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3998)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2414)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2407)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.mozilla.javascript.gen.init_js_1._c_callHook_22(init.js:325)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.mozilla.javascript.gen.init_js_1._c_anonymous_55(init.js:748)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3282)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.InterfaceAdapter.invokeImpl(InterfaceAdapter.java:137)
+	at org.mozilla.javascript.InterfaceAdapter$1.run(InterfaceAdapter.java:83)
+	at org.mozilla.javascript.Context.call(Context.java:501)
+	at org.mozilla.javascript.ContextFactory.call(ContextFactory.java:503)
+	at org.mozilla.javascript.InterfaceAdapter.invoke(InterfaceAdapter.java:86)
+	at org.mozilla.javascript.jdk13.VMBridge_jdk13$1.invoke(VMBridge_jdk13.java:132)
+	at com.sun.proxy.$Proxy7.handle(Unknown Source)
+	at tv.phantombot.script.ScriptEventManager.onEvent(ScriptEventManager.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.engio.mbassy.dispatch.ReflectiveHandlerInvocation.invoke(ReflectiveHandlerInvocation.java:29)
+	at net.engio.mbassy.dispatch.MessageDispatcher.dispatch(MessageDispatcher.java:30)
+	at net.engio.mbassy.dispatch.FilteredMessageDispatcher.dispatch(FilteredMessageDispatcher.java:42)
+	at net.engio.mbassy.subscription.Subscription.publish(Subscription.java:72)
+	at net.engio.mbassy.bus.MessagePublication.execute(MessagePublication.java:49)
+	at net.engio.mbassy.bus.AbstractSyncAsyncMessageBus$1.run(AbstractSyncAsyncMessageBus.java:67)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-16-2019 @ 13:49:01.098 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:49:01.137 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:49:01.180 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:49:01.227 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:49:01.269 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:49:02.546 GMT] [onMessage()@YTWebSocketServer.java:250] Skipping song, YouTube has thrown an error: 2
+
+[06-16-2019 @ 13:49:02.548 GMT] [onMessage()@YTWebSocketServer.java:250] Skipping song, YouTube has thrown an error: 2
+
+[06-16-2019 @ 13:49:02.592 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:49:02.595 GMT] [onEvent()@ScriptEventManager.java:79] Failed to dispatch event tv.phantombot.event.ytplayer.YTPlayerSkipSongEvent
+
+[06-16-2019 @ 13:49:02.597 GMT] org.mozilla.javascript.EcmaError: TypeError: Cannot call method "trim" of undefined (init.js#325)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3951)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3929)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3962)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3981)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3998)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2414)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2407)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.mozilla.javascript.gen.init_js_1._c_callHook_22(init.js:325)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.mozilla.javascript.gen.init_js_1._c_anonymous_61(init.js:790)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3282)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.InterfaceAdapter.invokeImpl(InterfaceAdapter.java:137)
+	at org.mozilla.javascript.InterfaceAdapter$1.run(InterfaceAdapter.java:83)
+	at org.mozilla.javascript.Context.call(Context.java:501)
+	at org.mozilla.javascript.ContextFactory.call(ContextFactory.java:503)
+	at org.mozilla.javascript.InterfaceAdapter.invoke(InterfaceAdapter.java:86)
+	at org.mozilla.javascript.jdk13.VMBridge_jdk13$1.invoke(VMBridge_jdk13.java:132)
+	at com.sun.proxy.$Proxy7.handle(Unknown Source)
+	at tv.phantombot.script.ScriptEventManager.onEvent(ScriptEventManager.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.engio.mbassy.dispatch.ReflectiveHandlerInvocation.invoke(ReflectiveHandlerInvocation.java:29)
+	at net.engio.mbassy.dispatch.MessageDispatcher.dispatch(MessageDispatcher.java:30)
+	at net.engio.mbassy.dispatch.FilteredMessageDispatcher.dispatch(FilteredMessageDispatcher.java:42)
+	at net.engio.mbassy.subscription.Subscription.publish(Subscription.java:72)
+	at net.engio.mbassy.bus.MessagePublication.execute(MessagePublication.java:49)
+	at net.engio.mbassy.bus.AbstractSyncAsyncMessageBus$1.run(AbstractSyncAsyncMessageBus.java:67)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-16-2019 @ 13:49:02.655 GMT] [GetData()@YouTubeAPIv3.java:130] YouTubeAPIv3 Error: [Domain] usageLimits [Reason] ipRefererBlocked
+
+[06-16-2019 @ 13:49:02.656 GMT] [onEvent()@ScriptEventManager.java:79] Failed to dispatch event tv.phantombot.event.ytplayer.YTPlayerSkipSongEvent
+
+[06-16-2019 @ 13:49:02.657 GMT] org.mozilla.javascript.EcmaError: TypeError: Cannot call method "trim" of undefined (init.js#325)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3951)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3929)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3962)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3981)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3998)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2414)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2407)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.mozilla.javascript.gen.init_js_1._c_callHook_22(init.js:325)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.mozilla.javascript.gen.init_js_1._c_anonymous_61(init.js:790)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3282)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.InterfaceAdapter.invokeImpl(InterfaceAdapter.java:137)
+	at org.mozilla.javascript.InterfaceAdapter$1.run(InterfaceAdapter.java:83)
+	at org.mozilla.javascript.Context.call(Context.java:501)
+	at org.mozilla.javascript.ContextFactory.call(ContextFactory.java:503)
+	at org.mozilla.javascript.InterfaceAdapter.invoke(InterfaceAdapter.java:86)
+	at org.mozilla.javascript.jdk13.VMBridge_jdk13$1.invoke(VMBridge_jdk13.java:132)
+	at com.sun.proxy.$Proxy7.handle(Unknown Source)
+	at tv.phantombot.script.ScriptEventManager.onEvent(ScriptEventManager.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.engio.mbassy.dispatch.ReflectiveHandlerInvocation.invoke(ReflectiveHandlerInvocation.java:29)
+	at net.engio.mbassy.dispatch.MessageDispatcher.dispatch(MessageDispatcher.java:30)
+	at net.engio.mbassy.dispatch.FilteredMessageDispatcher.dispatch(FilteredMessageDispatcher.java:42)
+	at net.engio.mbassy.subscription.Subscription.publish(Subscription.java:72)
+	at net.engio.mbassy.bus.MessagePublication.execute(MessagePublication.java:49)
+	at net.engio.mbassy.bus.AbstractSyncAsyncMessageBus$1.run(AbstractSyncAsyncMessageBus.java:67)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-16-2019 @ 14:01:01.038 GMT] [onMessage()@YTWebSocketServer.java:250] Skipping song, YouTube has thrown an error: 2
+
+[06-16-2019 @ 14:01:01.040 GMT] [onMessage()@YTWebSocketServer.java:250] Skipping song, YouTube has thrown an error: 2
+
+[06-16-2019 @ 14:02:52.509 GMT] [onEvent()@ScriptEventManager.java:79] Failed to dispatch event tv.phantombot.event.ytplayer.YTPlayerStealSongEvent
+
+[06-16-2019 @ 14:02:52.510 GMT] org.mozilla.javascript.EcmaError: TypeError: Cannot call method "trim" of undefined (init.js#325)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3951)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3929)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3962)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3981)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3998)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2414)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2407)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.mozilla.javascript.gen.init_js_1._c_callHook_22(init.js:325)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.mozilla.javascript.gen.init_js_1._c_anonymous_62(init.js:797)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3282)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.InterfaceAdapter.invokeImpl(InterfaceAdapter.java:137)
+	at org.mozilla.javascript.InterfaceAdapter$1.run(InterfaceAdapter.java:83)
+	at org.mozilla.javascript.Context.call(Context.java:501)
+	at org.mozilla.javascript.ContextFactory.call(ContextFactory.java:503)
+	at org.mozilla.javascript.InterfaceAdapter.invoke(InterfaceAdapter.java:86)
+	at org.mozilla.javascript.jdk13.VMBridge_jdk13$1.invoke(VMBridge_jdk13.java:132)
+	at com.sun.proxy.$Proxy7.handle(Unknown Source)
+	at tv.phantombot.script.ScriptEventManager.onEvent(ScriptEventManager.java:75)
+	at sun.reflect.GeneratedMethodAccessor28.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.engio.mbassy.dispatch.ReflectiveHandlerInvocation.invoke(ReflectiveHandlerInvocation.java:29)
+	at net.engio.mbassy.dispatch.MessageDispatcher.dispatch(MessageDispatcher.java:30)
+	at net.engio.mbassy.dispatch.FilteredMessageDispatcher.dispatch(FilteredMessageDispatcher.java:42)
+	at net.engio.mbassy.subscription.Subscription.publish(Subscription.java:72)
+	at net.engio.mbassy.bus.MessagePublication.execute(MessagePublication.java:49)
+	at net.engio.mbassy.bus.AbstractSyncAsyncMessageBus$1.run(AbstractSyncAsyncMessageBus.java:67)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-16-2019 @ 14:06:22.358 GMT] [onEvent()@ScriptEventManager.java:79] Failed to dispatch event tv.phantombot.event.ytplayer.YTPlayerStealSongEvent
+
+[06-16-2019 @ 14:06:22.359 GMT] org.mozilla.javascript.EcmaError: TypeError: Cannot call method "trim" of undefined (init.js#325)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3951)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3929)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3962)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3981)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3998)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2414)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2407)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.mozilla.javascript.gen.init_js_1._c_callHook_22(init.js:325)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.mozilla.javascript.gen.init_js_1._c_anonymous_62(init.js:797)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3282)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.InterfaceAdapter.invokeImpl(InterfaceAdapter.java:137)
+	at org.mozilla.javascript.InterfaceAdapter$1.run(InterfaceAdapter.java:83)
+	at org.mozilla.javascript.Context.call(Context.java:501)
+	at org.mozilla.javascript.ContextFactory.call(ContextFactory.java:503)
+	at org.mozilla.javascript.InterfaceAdapter.invoke(InterfaceAdapter.java:86)
+	at org.mozilla.javascript.jdk13.VMBridge_jdk13$1.invoke(VMBridge_jdk13.java:132)
+	at com.sun.proxy.$Proxy7.handle(Unknown Source)
+	at tv.phantombot.script.ScriptEventManager.onEvent(ScriptEventManager.java:75)
+	at sun.reflect.GeneratedMethodAccessor28.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.engio.mbassy.dispatch.ReflectiveHandlerInvocation.invoke(ReflectiveHandlerInvocation.java:29)
+	at net.engio.mbassy.dispatch.MessageDispatcher.dispatch(MessageDispatcher.java:30)
+	at net.engio.mbassy.dispatch.FilteredMessageDispatcher.dispatch(FilteredMessageDispatcher.java:42)
+	at net.engio.mbassy.subscription.Subscription.publish(Subscription.java:72)
+	at net.engio.mbassy.bus.MessagePublication.execute(MessagePublication.java:49)
+	at net.engio.mbassy.bus.AbstractSyncAsyncMessageBus$1.run(AbstractSyncAsyncMessageBus.java:67)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-16-2019 @ 14:36:53.330 GMT] [onEvent()@ScriptEventManager.java:79] Failed to dispatch event tv.phantombot.event.ytplayer.YTPlayerStealSongEvent
+
+[06-16-2019 @ 14:36:53.331 GMT] org.mozilla.javascript.EcmaError: TypeError: Cannot call method "trim" of undefined (init.js#325)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3951)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3929)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3962)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3981)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3998)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2414)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2407)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.mozilla.javascript.gen.init_js_1._c_callHook_22(init.js:325)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.mozilla.javascript.gen.init_js_1._c_anonymous_62(init.js:797)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3282)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.InterfaceAdapter.invokeImpl(InterfaceAdapter.java:137)
+	at org.mozilla.javascript.InterfaceAdapter$1.run(InterfaceAdapter.java:83)
+	at org.mozilla.javascript.Context.call(Context.java:501)
+	at org.mozilla.javascript.ContextFactory.call(ContextFactory.java:503)
+	at org.mozilla.javascript.InterfaceAdapter.invoke(InterfaceAdapter.java:86)
+	at org.mozilla.javascript.jdk13.VMBridge_jdk13$1.invoke(VMBridge_jdk13.java:132)
+	at com.sun.proxy.$Proxy7.handle(Unknown Source)
+	at tv.phantombot.script.ScriptEventManager.onEvent(ScriptEventManager.java:75)
+	at sun.reflect.GeneratedMethodAccessor28.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.engio.mbassy.dispatch.ReflectiveHandlerInvocation.invoke(ReflectiveHandlerInvocation.java:29)
+	at net.engio.mbassy.dispatch.MessageDispatcher.dispatch(MessageDispatcher.java:30)
+	at net.engio.mbassy.dispatch.FilteredMessageDispatcher.dispatch(FilteredMessageDispatcher.java:42)
+	at net.engio.mbassy.subscription.Subscription.publish(Subscription.java:72)
+	at net.engio.mbassy.bus.MessagePublication.execute(MessagePublication.java:49)
+	at net.engio.mbassy.bus.AbstractSyncAsyncMessageBus$1.run(AbstractSyncAsyncMessageBus.java:67)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-16-2019 @ 14:37:03.427 GMT] [onEvent()@ScriptEventManager.java:79] Failed to dispatch event tv.phantombot.event.ytplayer.YTPlayerStealSongEvent
+
+[06-16-2019 @ 14:37:03.430 GMT] org.mozilla.javascript.EcmaError: TypeError: Cannot call method "trim" of undefined (init.js#325)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3951)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3929)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3962)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3981)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3998)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2414)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2407)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.mozilla.javascript.gen.init_js_1._c_callHook_22(init.js:325)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.mozilla.javascript.gen.init_js_1._c_anonymous_62(init.js:797)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3282)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.InterfaceAdapter.invokeImpl(InterfaceAdapter.java:137)
+	at org.mozilla.javascript.InterfaceAdapter$1.run(InterfaceAdapter.java:83)
+	at org.mozilla.javascript.Context.call(Context.java:501)
+	at org.mozilla.javascript.ContextFactory.call(ContextFactory.java:503)
+	at org.mozilla.javascript.InterfaceAdapter.invoke(InterfaceAdapter.java:86)
+	at org.mozilla.javascript.jdk13.VMBridge_jdk13$1.invoke(VMBridge_jdk13.java:132)
+	at com.sun.proxy.$Proxy7.handle(Unknown Source)
+	at tv.phantombot.script.ScriptEventManager.onEvent(ScriptEventManager.java:75)
+	at sun.reflect.GeneratedMethodAccessor28.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.engio.mbassy.dispatch.ReflectiveHandlerInvocation.invoke(ReflectiveHandlerInvocation.java:29)
+	at net.engio.mbassy.dispatch.MessageDispatcher.dispatch(MessageDispatcher.java:30)
+	at net.engio.mbassy.dispatch.FilteredMessageDispatcher.dispatch(FilteredMessageDispatcher.java:42)
+	at net.engio.mbassy.subscription.Subscription.publish(Subscription.java:72)
+	at net.engio.mbassy.bus.MessagePublication.execute(MessagePublication.java:49)
+	at net.engio.mbassy.bus.AbstractSyncAsyncMessageBus$1.run(AbstractSyncAsyncMessageBus.java:67)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-16-2019 @ 14:37:09.959 GMT] [onMessage()@YTWebSocketServer.java:250] Skipping song, YouTube has thrown an error: 2
+
+[06-16-2019 @ 14:37:09.960 GMT] [onMessage()@YTWebSocketServer.java:250] Skipping song, YouTube has thrown an error: 2
+
+[06-16-2019 @ 14:37:32.070 GMT] [onEvent()@ScriptEventManager.java:79] Failed to dispatch event tv.phantombot.event.ytplayer.YTPlayerStealSongEvent
+
+[06-16-2019 @ 14:37:32.072 GMT] org.mozilla.javascript.EcmaError: TypeError: Cannot call method "trim" of undefined (init.js#325)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3951)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3929)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3962)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3981)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3998)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2414)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2407)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.mozilla.javascript.gen.init_js_1._c_callHook_22(init.js:325)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.mozilla.javascript.gen.init_js_1._c_anonymous_62(init.js:797)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3282)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.InterfaceAdapter.invokeImpl(InterfaceAdapter.java:137)
+	at org.mozilla.javascript.InterfaceAdapter$1.run(InterfaceAdapter.java:83)
+	at org.mozilla.javascript.Context.call(Context.java:501)
+	at org.mozilla.javascript.ContextFactory.call(ContextFactory.java:503)
+	at org.mozilla.javascript.InterfaceAdapter.invoke(InterfaceAdapter.java:86)
+	at org.mozilla.javascript.jdk13.VMBridge_jdk13$1.invoke(VMBridge_jdk13.java:132)
+	at com.sun.proxy.$Proxy7.handle(Unknown Source)
+	at tv.phantombot.script.ScriptEventManager.onEvent(ScriptEventManager.java:75)
+	at sun.reflect.GeneratedMethodAccessor28.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.engio.mbassy.dispatch.ReflectiveHandlerInvocation.invoke(ReflectiveHandlerInvocation.java:29)
+	at net.engio.mbassy.dispatch.MessageDispatcher.dispatch(MessageDispatcher.java:30)
+	at net.engio.mbassy.dispatch.FilteredMessageDispatcher.dispatch(FilteredMessageDispatcher.java:42)
+	at net.engio.mbassy.subscription.Subscription.publish(Subscription.java:72)
+	at net.engio.mbassy.bus.MessagePublication.execute(MessagePublication.java:49)
+	at net.engio.mbassy.bus.AbstractSyncAsyncMessageBus$1.run(AbstractSyncAsyncMessageBus.java:67)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-16-2019 @ 14:37:50.763 GMT] [onEvent()@ScriptEventManager.java:79] Failed to dispatch event tv.phantombot.event.ytplayer.YTPlayerStealSongEvent
+
+[06-16-2019 @ 14:37:50.763 GMT] org.mozilla.javascript.EcmaError: TypeError: Cannot call method "trim" of undefined (init.js#325)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3951)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3929)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3962)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3981)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3998)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2414)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2407)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.mozilla.javascript.gen.init_js_1._c_callHook_22(init.js:325)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.mozilla.javascript.gen.init_js_1._c_anonymous_62(init.js:797)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3282)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.InterfaceAdapter.invokeImpl(InterfaceAdapter.java:137)
+	at org.mozilla.javascript.InterfaceAdapter$1.run(InterfaceAdapter.java:83)
+	at org.mozilla.javascript.Context.call(Context.java:501)
+	at org.mozilla.javascript.ContextFactory.call(ContextFactory.java:503)
+	at org.mozilla.javascript.InterfaceAdapter.invoke(InterfaceAdapter.java:86)
+	at org.mozilla.javascript.jdk13.VMBridge_jdk13$1.invoke(VMBridge_jdk13.java:132)
+	at com.sun.proxy.$Proxy7.handle(Unknown Source)
+	at tv.phantombot.script.ScriptEventManager.onEvent(ScriptEventManager.java:75)
+	at sun.reflect.GeneratedMethodAccessor28.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.engio.mbassy.dispatch.ReflectiveHandlerInvocation.invoke(ReflectiveHandlerInvocation.java:29)
+	at net.engio.mbassy.dispatch.MessageDispatcher.dispatch(MessageDispatcher.java:30)
+	at net.engio.mbassy.dispatch.FilteredMessageDispatcher.dispatch(FilteredMessageDispatcher.java:42)
+	at net.engio.mbassy.subscription.Subscription.publish(Subscription.java:72)
+	at net.engio.mbassy.bus.MessagePublication.execute(MessagePublication.java:49)
+	at net.engio.mbassy.bus.AbstractSyncAsyncMessageBus$1.run(AbstractSyncAsyncMessageBus.java:67)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-16-2019 @ 14:38:23.242 GMT] [onEvent()@ScriptEventManager.java:79] Failed to dispatch event tv.phantombot.event.ytplayer.YTPlayerStealSongEvent
+
+[06-16-2019 @ 14:38:23.243 GMT] org.mozilla.javascript.EcmaError: TypeError: Cannot call method "trim" of undefined (init.js#325)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3951)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3929)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3962)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3981)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3998)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2414)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2407)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.mozilla.javascript.gen.init_js_1._c_callHook_22(init.js:325)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.mozilla.javascript.gen.init_js_1._c_anonymous_62(init.js:797)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3282)
+	at org.mozilla.javascript.gen.init_js_1.call(init.js)
+	at org.mozilla.javascript.InterfaceAdapter.invokeImpl(InterfaceAdapter.java:137)
+	at org.mozilla.javascript.InterfaceAdapter$1.run(InterfaceAdapter.java:83)
+	at org.mozilla.javascript.Context.call(Context.java:501)
+	at org.mozilla.javascript.ContextFactory.call(ContextFactory.java:503)
+	at org.mozilla.javascript.InterfaceAdapter.invoke(InterfaceAdapter.java:86)
+	at org.mozilla.javascript.jdk13.VMBridge_jdk13$1.invoke(VMBridge_jdk13.java:132)
+	at com.sun.proxy.$Proxy7.handle(Unknown Source)
+	at tv.phantombot.script.ScriptEventManager.onEvent(ScriptEventManager.java:75)
+	at sun.reflect.GeneratedMethodAccessor28.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.engio.mbassy.dispatch.ReflectiveHandlerInvocation.invoke(ReflectiveHandlerInvocation.java:29)
+	at net.engio.mbassy.dispatch.MessageDispatcher.dispatch(MessageDispatcher.java:30)
+	at net.engio.mbassy.dispatch.FilteredMessageDispatcher.dispatch(FilteredMessageDispatcher.java:42)
+	at net.engio.mbassy.subscription.Subscription.publish(Subscription.java:72)
+	at net.engio.mbassy.bus.MessagePublication.execute(MessagePublication.java:49)
+	at net.engio.mbassy.bus.AbstractSyncAsyncMessageBus$1.run(AbstractSyncAsyncMessageBus.java:67)
+	at java.lang.Thread.run(Unknown Source)
+
+

@@ -1,0 +1,77 @@
+[06-16-2019 @ 14:09:13.273 GMT] kazonighting: !playlist importpl
+[06-16-2019 @ 14:10:00.362 GMT] kazonighting: !playlist
+[06-16-2019 @ 14:10:27.294 GMT] kazonighting: !playlist
+[06-16-2019 @ 14:10:31.273 GMT] twitchnighting: @KazoNighting, stream chat is on Twitter @KazoNighting [twitter.com/KazoNighting] (!twitter usage for usage)
+[06-16-2019 @ 14:10:31.275 GMT] kazonighting: !twitter
+[06-16-2019 @ 14:10:37.330 GMT] kazonighting: !playlist importpl
+[06-16-2019 @ 14:15:11.725 GMT] kazonighting: !playlist importpl file YT YTPL.txt
+[06-16-2019 @ 14:16:09.758 GMT] kazonighting: !playlist loadpl YTPL.txt
+[06-16-2019 @ 14:19:03.361 GMT] kazonighting: !playlist importpl file youtube youtube.txt
+[06-16-2019 @ 14:19:28.001 GMT] kazonighting: !playlist loadpl youtube
+[06-16-2019 @ 14:19:38.062 GMT] kazonighting: !playlist loadpl youtube.txt
+[06-16-2019 @ 14:20:15.068 GMT] kazonighting: !playlist loadpl youtube.txt
+[06-16-2019 @ 14:20:36.037 GMT] twitchnighting: @KazoNighting, Usage: !songrequest [YouTube ID | YouTube link | search string]
+[06-16-2019 @ 14:20:36.039 GMT] kazonighting: !addsong
+[06-16-2019 @ 14:21:06.914 GMT] twitchnighting: @KazoNighting, Failed adding song to queue: YouTube error (No Search Results Found)
+[06-16-2019 @ 14:21:06.916 GMT] kazonighting: !songrequest https://www.youtube.com/playlist?list=PLXsQDTLKG-8J7bU7PYcf9VwCatCBVn6LA&disable_polymer=true
+[06-16-2019 @ 14:23:37.350 GMT] kazonighting: !playlist listpl
+[06-16-2019 @ 14:23:47.580 GMT] kazonighting: !playlistlistpl
+[06-16-2019 @ 14:24:34.310 GMT] kazonighting: !playlist listpl
+[06-16-2019 @ 14:25:05.301 GMT] twitchnighting: @KazoNighting, stream chat is on Twitter @KazoNighting [twitter.com/KazoNighting] (!twitter usage for usage)
+[06-16-2019 @ 14:25:05.302 GMT] kazonighting: !twitter
+[06-16-2019 @ 14:27:10.606 GMT] kazonighting: !playlist importpl file youtube youtube.txt
+[06-16-2019 @ 14:27:23.407 GMT] kazonighting: !playlist loadpl youtube
+[06-16-2019 @ 14:35:02.891 GMT] kazonighting: !playlist importpl file Stream youtube.txt
+[06-16-2019 @ 14:35:13.395 GMT] kazonighting: !playlist loadpl Stream
+[06-16-2019 @ 16:01:54.690 GMT] cpt_caprison: !tischgröße
+[06-16-2019 @ 16:09:12.315 GMT] n3onxweeshx: hello
+[06-16-2019 @ 16:09:35.501 GMT] n3onxweeshx: can i join in
+[06-16-2019 @ 16:09:38.574 GMT] n3onxweeshx: call me neon xD
+[06-16-2019 @ 16:09:51.521 GMT] n3onxweeshx: no worries
+[06-16-2019 @ 16:09:54.469 GMT] n3onxweeshx: im from belguim
+[06-16-2019 @ 16:09:59.041 GMT] n3onxweeshx: i kinda understand german
+[06-16-2019 @ 16:10:06.296 GMT] n3onxweeshx: i can join n need to talk
+[06-16-2019 @ 16:10:31.718 GMT] n3onxweeshx: jsut act like im a teammate xD but then random but not xd
+[06-16-2019 @ 16:24:25.824 GMT] twitchnighting: Derzeit wird eine HyperX Alloy Elite RGB verwendet!
+[06-16-2019 @ 16:24:25.827 GMT] cpt_caprison: !tastatur
+[06-16-2019 @ 16:35:32.919 GMT] cpt_caprison: jetzt will ich aber mal nen ace von dir sehen
+[06-16-2019 @ 16:55:49.259 GMT] cpt_caprison: carry
+[06-16-2019 @ 16:59:12.222 GMT] cpt_caprison: ich mach ja nichtmal so viele fehler in rainbow wie die LUL
+[06-16-2019 @ 17:04:56.871 GMT] twitchnighting: drnazvio danke für deinen Follow!
+[06-16-2019 @ 17:08:55.482 GMT] risc_arctic: kann man mitspielen
+[06-16-2019 @ 17:08:58.910 GMT] twitchnighting: risc_arctic danke für deinen Follow!
+[06-16-2019 @ 17:10:53.771 GMT] risc_arctic: hab noch nie gesehen dass du die leute mitspielen lässt LUL
+[06-16-2019 @ 17:11:47.120 GMT] cpt_caprison: der hat danach erst gefollowed
+[06-16-2019 @ 17:13:03.480 GMT] risc_arctic: !tischgröße
+[06-16-2019 @ 17:13:41.010 GMT] cpt_caprison: oh man
+[06-16-2019 @ 17:15:54.767 GMT] cpt_caprison: oh man
+[06-16-2019 @ 17:17:55.680 GMT] cpt_caprison: mach ich ja :)
+[06-16-2019 @ 17:19:53.562 GMT] cpt_caprison: solange ich es mit unterschiedlichen geräten mach kann nichts passieren :)
+[06-16-2019 @ 17:21:26.308 GMT] cpt_caprison: können ja mehrere aus einer familie followen
+[06-16-2019 @ 17:36:13.202 GMT] cpt_caprison: bin mal weg
+[06-16-2019 @ 18:06:07.484 GMT] fooooip: hab nur wegen deinen sot streams gefolgt
+[06-16-2019 @ 18:06:29.540 GMT] twitchnighting: fooooip danke für deinen Follow!
+[06-16-2019 @ 18:07:43.840 GMT] fooooip: SOT *_° YAY
+[06-16-2019 @ 18:08:08.357 GMT] fooooip: /me hat den Channel als Favorit hinzugefügt
+[06-16-2019 @ 18:08:36.654 GMT] fooooip: /me hat den Channel als Freund hinzugefügt
+[06-16-2019 @ 18:09:03.435 GMT] fooooip: wie lange bist du live?
+[06-16-2019 @ 18:22:10.673 GMT] fooooip: SOT :OOO
+[06-16-2019 @ 18:22:41.520 GMT] fooooip: :D HYPE!!!
+[06-16-2019 @ 18:22:44.716 GMT] fooooip: HYOE
+[06-16-2019 @ 18:22:47.711 GMT] fooooip: Yaaaa
+[06-16-2019 @ 18:39:07.048 GMT] fooooip: <3 <3 <3 <3
+[06-16-2019 @ 18:53:14.435 GMT] fooooip: make music
+[06-16-2019 @ 18:57:26.050 GMT] twitchnighting: MYKeksTV danke für deinen Follow!
+[06-16-2019 @ 18:57:59.651 GMT] cpt_caprison: warum so viele viewer
+[06-16-2019 @ 18:58:25.476 GMT] mykekstv: geile aissage kazo
+[06-16-2019 @ 18:58:26.792 GMT] cpt_caprison: gönn ich dir nicht Kappa
+[06-16-2019 @ 18:58:32.901 GMT] mykekstv: *aussage
+[06-16-2019 @ 18:59:31.357 GMT] mykekstv: kazo marcel hat ein echo
+[06-16-2019 @ 19:00:32.676 GMT] mykekstv: ja
+[06-16-2019 @ 19:01:13.010 GMT] mykekstv: der hat ein echo
+[06-16-2019 @ 19:01:41.027 GMT] mykekstv: IMMER noch
+[06-16-2019 @ 19:02:03.181 GMT] mykekstv: ja genau
+[06-16-2019 @ 19:02:22.122 GMT] mykekstv: ist komisch das ich die sachen alles von marcel habe
+[06-16-2019 @ 19:02:23.154 GMT] mykekstv: xD
+[06-16-2019 @ 19:02:38.114 GMT] mykekstv: und komisch das kazo normal ist und marcel echo hat
+[06-16-2019 @ 19:04:03.378 GMT] mykekstv: ne jetzt nimmer

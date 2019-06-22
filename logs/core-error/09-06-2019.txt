@@ -1,0 +1,21 @@
+[06-09-2019 @ 17:37:10.618 GMT] [handleFile()@HTTPServerCommon.java:552] HTTP Server: handleFile(): .\web\panel\vendors\adminlte\img\boxed-bg.jpg (Das System kann den angegebenen Pfad nicht finden)
+
+[06-09-2019 @ 17:37:10.621 GMT] java.io.FileNotFoundException: .\web\panel\vendors\adminlte\img\boxed-bg.jpg (Das System kann den angegebenen Pfad nicht finden)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at tv.phantombot.httpserver.HTTPServerCommon.handleFile(HTTPServerCommon.java:543)
+	at tv.phantombot.httpserver.HTTPServerCommon.handlePanel(HTTPServerCommon.java:86)
+	at tv.phantombot.httpserver.HTTPServer$PanelHandler.handle(HTTPServer.java:98)
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Unknown Source)
+	at sun.net.httpserver.AuthFilter.doFilter(Unknown Source)
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Unknown Source)
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(Unknown Source)
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Unknown Source)
+	at sun.net.httpserver.ServerImpl$Exchange.run(Unknown Source)
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(Unknown Source)
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(Unknown Source)
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+

@@ -1,0 +1,2 @@
+[06-07-2019 @ 18:01:49.948 GMT] [handleFile()@HTTPServerCommon.java:552] HTTP Server: handleFile(): .\web\panel\vendors\adminlte\img\boxed-bg.jpg (Das System kann den angegebenen Pfad nicht finden)
+

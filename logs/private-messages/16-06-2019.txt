@@ -1,0 +1,4 @@
+[06-16-2019 @ 15:58:02.093 GMT] jtv: now hosting itssirotv.
+[06-16-2019 @ 15:58:02.095 GMT] Received a start host mode notification on user itssirotv from jtv
+[06-16-2019 @ 15:59:35.751 GMT] jtv: exited host mode.
+[06-16-2019 @ 15:59:35.753 GMT] jtv: exited host mode.

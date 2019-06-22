@@ -1,0 +1,139 @@
+[06-06-2019 @ 15:01:19.754 GMT] [updateCache()@TwitchCache.java:394] TwitchCache::updateCache: Unable to find channel for id "0"
+
+[06-06-2019 @ 15:01:53.050 GMT] [updateCache()@TwitchCache.java:394] TwitchCache::updateCache: Unable to find channel for id "0"
+
+[06-06-2019 @ 15:02:14.454 GMT] [handleFile()@HTTPServerCommon.java:552] HTTP Server: handleFile(): .\web\panel\vendors\adminlte\img\boxed-bg.jpg (Das System kann den angegebenen Pfad nicht finden)
+
+[06-06-2019 @ 15:02:14.455 GMT] java.io.FileNotFoundException: .\web\panel\vendors\adminlte\img\boxed-bg.jpg (Das System kann den angegebenen Pfad nicht finden)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at tv.phantombot.httpserver.HTTPServerCommon.handleFile(HTTPServerCommon.java:543)
+	at tv.phantombot.httpserver.HTTPServerCommon.handlePanel(HTTPServerCommon.java:86)
+	at tv.phantombot.httpserver.HTTPServer$PanelHandler.handle(HTTPServer.java:98)
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Unknown Source)
+	at sun.net.httpserver.AuthFilter.doFilter(Unknown Source)
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Unknown Source)
+	at sun.net.httpserver.ServerImpl$Exchange$LinkHandler.handle(Unknown Source)
+	at com.sun.net.httpserver.Filter$Chain.doFilter(Unknown Source)
+	at sun.net.httpserver.ServerImpl$Exchange.run(Unknown Source)
+	at sun.net.httpserver.ServerImpl$DefaultExecutor.execute(Unknown Source)
+	at sun.net.httpserver.ServerImpl$Dispatcher.handle(Unknown Source)
+	at sun.net.httpserver.ServerImpl$Dispatcher.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-06-2019 @ 15:02:26.443 GMT] [updateCache()@TwitchCache.java:394] TwitchCache::updateCache: Unable to find channel for id "0"
+
+[06-06-2019 @ 15:03:00.184 GMT] [updateCache()@TwitchCache.java:394] TwitchCache::updateCache: Unable to find channel for id "0"
+
+[06-06-2019 @ 15:03:12.592 GMT] [updateCache()@TwitchCache.java:394] TwitchCache::updateCache: Unable to find channel for id "0"
+
+[06-06-2019 @ 15:03:45.823 GMT] [updateCache()@TwitchCache.java:394] TwitchCache::updateCache: Unable to find channel for id "0"
+
+[06-06-2019 @ 15:04:19.201 GMT] [updateCache()@TwitchCache.java:394] TwitchCache::updateCache: Unable to find channel for id "0"
+
+[06-06-2019 @ 15:04:52.474 GMT] [updateCache()@TwitchCache.java:394] TwitchCache::updateCache: Unable to find channel for id "0"
+
+[06-06-2019 @ 15:05:26.140 GMT] [updateCache()@TwitchCache.java:394] TwitchCache::updateCache: Unable to find channel for id "0"
+
+[06-06-2019 @ 15:05:59.576 GMT] [updateCache()@TwitchCache.java:394] TwitchCache::updateCache: Unable to find channel for id "0"
+
+[06-06-2019 @ 15:06:33.241 GMT] [updateCache()@TwitchCache.java:394] TwitchCache::updateCache: Unable to find channel for id "0"
+
+[06-06-2019 @ 15:07:06.605 GMT] [updateCache()@TwitchCache.java:394] TwitchCache::updateCache: Unable to find channel for id "0"
+
+[06-06-2019 @ 15:07:39.869 GMT] [updateCache()@TwitchCache.java:394] TwitchCache::updateCache: Unable to find channel for id "0"
+
+[06-06-2019 @ 15:19:53.904 GMT] [connect()@DiscordAPI.java:106] Failed to authenticate with Discord: [DiscordException] Exception (DiscordException) occurred while logging in: Error on request to https://discordapp.com/api/v6/users/@me. Received response code 401. With response text: {"code": 0, "message": "401: Unauthorized"}
+
+[06-06-2019 @ 15:20:26.904 GMT] org.mozilla.javascript.EcmaError: TypeError: Cannot call method "isLoggedIn" of null (misc.js#52)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3951)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3929)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3962)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3981)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3998)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2414)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2407)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.mozilla.javascript.gen.misc_js_139._c_isConnected_3(misc.js:52)
+	at org.mozilla.javascript.gen.misc_js_139.call(misc.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:85)
+	at org.mozilla.javascript.gen.roleManager_js_145._c_roleUpdateCheck_3(roleManager.js:34)
+	at org.mozilla.javascript.gen.roleManager_js_145.call(roleManager.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3282)
+	at org.mozilla.javascript.gen.roleManager_js_145.call(roleManager.js)
+	at org.mozilla.javascript.Context$1.run(Context.java:490)
+	at org.mozilla.javascript.Context.call(Context.java:501)
+	at org.mozilla.javascript.Context.call(Context.java:488)
+	at org.mozilla.javascript.JavaAdapter.callMethod(JavaAdapter.java:576)
+	at adapter1.run(<adapter>)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+
+[06-06-2019 @ 15:21:51.585 GMT] [connect()@DiscordAPI.java:106] Failed to authenticate with Discord: [DiscordException] Exception (DiscordException) occurred while logging in: Error on request to https://discordapp.com/api/v6/users/@me. Received response code 401. With response text: {"code": 0, "message": "401: Unauthorized"}
+
+[06-06-2019 @ 15:22:31.074 GMT] [connect()@DiscordAPI.java:106] Failed to authenticate with Discord: [DiscordException] Exception (DiscordException) occurred while logging in: Error on request to https://discordapp.com/api/v6/users/@me. Received response code 401. With response text: {"code": 0, "message": "401: Unauthorized"}
+
+[06-06-2019 @ 15:23:03.992 GMT] org.mozilla.javascript.EcmaError: TypeError: Cannot call method "isLoggedIn" of null (misc.js#52)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3951)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3929)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3962)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3981)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3998)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2414)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2407)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.mozilla.javascript.gen.misc_js_139._c_isConnected_3(misc.js:52)
+	at org.mozilla.javascript.gen.misc_js_139.call(misc.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:85)
+	at org.mozilla.javascript.gen.roleManager_js_145._c_roleUpdateCheck_3(roleManager.js:34)
+	at org.mozilla.javascript.gen.roleManager_js_145.call(roleManager.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3282)
+	at org.mozilla.javascript.gen.roleManager_js_145.call(roleManager.js)
+	at org.mozilla.javascript.Context$1.run(Context.java:490)
+	at org.mozilla.javascript.Context.call(Context.java:501)
+	at org.mozilla.javascript.Context.call(Context.java:488)
+	at org.mozilla.javascript.JavaAdapter.callMethod(JavaAdapter.java:576)
+	at adapter1.run(<adapter>)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+
+[06-06-2019 @ 15:23:13.227 GMT] [connect()@DiscordAPI.java:106] Failed to authenticate with Discord: [DiscordException] Exception (DiscordException) occurred while logging in: Error on request to https://discordapp.com/api/v6/users/@me. Received response code 401. With response text: {"code": 0, "message": "401: Unauthorized"}
+
+[06-06-2019 @ 15:23:46.236 GMT] org.mozilla.javascript.EcmaError: TypeError: Cannot call method "isLoggedIn" of null (misc.js#52)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3951)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3929)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3962)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3981)
+	at org.mozilla.javascript.ScriptRuntime.undefCallError(ScriptRuntime.java:3998)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2414)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2407)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:83)
+	at org.mozilla.javascript.gen.misc_js_139._c_isConnected_3(misc.js:52)
+	at org.mozilla.javascript.gen.misc_js_139.call(misc.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callProp0(OptRuntime.java:85)
+	at org.mozilla.javascript.gen.roleManager_js_145._c_roleUpdateCheck_3(roleManager.js:34)
+	at org.mozilla.javascript.gen.roleManager_js_145.call(roleManager.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3282)
+	at org.mozilla.javascript.gen.roleManager_js_145.call(roleManager.js)
+	at org.mozilla.javascript.Context$1.run(Context.java:490)
+	at org.mozilla.javascript.Context.call(Context.java:501)
+	at org.mozilla.javascript.Context.call(Context.java:488)
+	at org.mozilla.javascript.JavaAdapter.callMethod(JavaAdapter.java:576)
+	at adapter1.run(<adapter>)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+
+[06-06-2019 @ 16:17:41.207 GMT] [reconnect()@DiscordAPI.java:121] Failed to reconnect with Discord: [DiscordException] Attempt to login client more than once.
+
+[06-06-2019 @ 16:17:41.208 GMT] [lambda$onDiscordReadyEvent$0()@DiscordAPI.java:220] Connection with Discord was lost.
+
+[06-06-2019 @ 16:17:41.208 GMT] [lambda$onDiscordReadyEvent$0()@DiscordAPI.java:221] Reconnecting will be attempted in 60 seconds...
+

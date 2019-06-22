@@ -1,0 +1,18 @@
+[06-16-2019 @ 13:43:30.274 GMT] [youtubePlayer.js:109] YoutubeVideo::exception: This video is not allowed to be embedded (ID: vY_kyk8yL9U)
+[06-16-2019 @ 13:43:30.562 GMT] [youtubePlayer.js:116] YoutubeVideo::exception: This video is not allowed to be embedded (ID: q_Wk_dn-jEg)
+[06-16-2019 @ 13:43:30.855 GMT] [youtubePlayer.js:123] YoutubeVideo::exception: This video is not allowed to be embedded (ID: 5WRZ-bC5XzE)
+[06-16-2019 @ 13:43:31.133 GMT] [youtubePlayer.js:130] YoutubeVideo::exception: This video is not allowed to be embedded (ID: 9Y5CCHacHfk)
+[06-16-2019 @ 13:45:07.105 GMT] [youtubePlayer.js:834] YoutubeVideo::exception: No data returned.
+[06-16-2019 @ 13:47:55.762 GMT] [youtubePlayer.js:834] YoutubeVideo::exception: This video is not allowed to be embedded (ID: RQmEERvqq70)
+[06-16-2019 @ 13:48:43.444 GMT] [youtubePlayer.js:109] YoutubeVideo::exception: This video is not allowed to be embedded (ID: vY_kyk8yL9U)
+[06-16-2019 @ 13:48:43.506 GMT] [youtubePlayer.js:116] YoutubeVideo::exception: This video is not allowed to be embedded (ID: q_Wk_dn-jEg)
+[06-16-2019 @ 13:48:43.552 GMT] [youtubePlayer.js:123] YoutubeVideo::exception: This video is not allowed to be embedded (ID: 5WRZ-bC5XzE)
+[06-16-2019 @ 13:48:43.593 GMT] [youtubePlayer.js:130] YoutubeVideo::exception: This video is not allowed to be embedded (ID: 9Y5CCHacHfk)
+[06-16-2019 @ 13:49:01.272 GMT] [youtubePlayer.js:834] YoutubeVideo::exception: This video is not allowed to be embedded (ID: WNeLUngb-Xg)
+[06-16-2019 @ 14:02:43.886 GMT] [init.js:325] Error with Event Handler [yTPlayerDeletePlaylistByID] Script [./systems/youtubePlayer.js] Stacktrace [youtubePlayer.js:498 > youtubePlayer.js:1131 > init.js:323 > init.js:811] Exception [TypeError: Cannot call method "pushPlayList" of null]
+[06-16-2019 @ 14:02:46.892 GMT] [init.js:325] Error with Event Handler [yTPlayerDeleteCurrent] Script [./systems/youtubePlayer.js] Stacktrace [youtubePlayer.js:473 > youtubePlayer.js:1191 > init.js:323 > init.js:832] Exception [TypeError: Cannot call method "pushPlayList" of null]
+[06-16-2019 @ 14:02:56.891 GMT] [youtubePlayer.js:834] YoutubeVideo::exception: No Search Results Found
+[06-16-2019 @ 14:06:27.433 GMT] [youtubePlayer.js:834] YoutubeVideo::exception: No Search Results Found
+[06-16-2019 @ 14:11:06.843 GMT] [init.js:325] Error with Event Handler [yTPlayerLoadPlaylist] Script [./systems/youtubePlayer.js] Stacktrace [youtubePlayer.js:1183 > init.js:323 > init.js:734] Exception [TypeError: Cannot call method "loadNewPlaylist" of null]
+[06-16-2019 @ 14:12:11.405 GMT] [init.js:325] Error with Event Handler [yTPlayerStealSong] Script [./systems/youtubePlayer.js] Stacktrace [youtubePlayer.js:1153 > init.js:323 > init.js:797] Exception [TypeError: Cannot call method "addToPlaylist" of null]
+[06-16-2019 @ 14:21:06.885 GMT] [youtubePlayer.js:834] YoutubeVideo::exception: No Search Results Found
